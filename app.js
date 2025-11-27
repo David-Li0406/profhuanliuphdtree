@@ -336,7 +336,7 @@ const scheduleInitialFocus = () => {
 
 const init = async () => {
   try {
-    const response = await fetch("manning_tree_latest.json");
+    const response = await fetch("huan_liu.json");
     state.data = await response.json();
   } catch (error) {
     console.error("Failed to load data", error);
@@ -383,7 +383,7 @@ const buildSearchHaystack = (node) => {
 };
 
 const depthLabel = (depth) => {
-  if (depth === 0) return "Generation 0 (Chris Manning)";
+  if (depth === 0) return "Generation 0 (Huan Liu)";
   if (depth === 1) return "Generation 1 (Direct PhD student)";
   return `Generation ${depth}`;
 };
