@@ -1,0 +1,4747 @@
+{
+  "root": "~Huan_Liu1",
+  "nodes": [
+    {
+      "id": "~Huan_Liu1",
+      "name": "Huan Liu",
+      "homepage": "https://openreview.net/profile?id=~Huan_Liu1",
+      "affiliation": {
+        "name": "Arizona State University",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Machine Learning",
+        "Social Computing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Machine Learning, Social Computing",
+      "depth": 0,
+      "direct_advisee_count": 33,
+      "total_descendants": 178
+    },
+    {
+      "id": "~Nitin_Agarwal1",
+      "name": "Nitin Agarwal",
+      "homepage": "https://openreview.net/profile?id=~Nitin_Agarwal1",
+      "affiliation": {
+        "name": "ICSI, University of California, Berkeley",
+        "domain": "berkeley.edu"
+      },
+      "expertise_keywords": [
+        "Social computing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "ICSI, University of California, Berkeley",
+      "affiliation_domain": "berkeley.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Social computing",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiliang_Tang1",
+      "name": "Jiliang Tang",
+      "homepage": "https://openreview.net/profile?id=~Jiliang_Tang1",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "Adversarial attacks and defense",
+        "Graph Neural Networks",
+        "Large-scale optimization",
+        "Limited Data Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Adversarial attacks and defense, Graph Neural Networks, Large-scale optimization, Limited Data Learning",
+      "depth": 1,
+      "direct_advisee_count": 29,
+      "total_descendants": 68
+    },
+    {
+      "id": "~Tyler_Derr1",
+      "name": "Tyler Derr",
+      "homepage": "https://openreview.net/profile?id=~Tyler_Derr1",
+      "affiliation": {
+        "name": "Vanderbilt University",
+        "domain": "vanderbilt.edu"
+      },
+      "expertise_keywords": [
+        "LLMs",
+        "QSAR",
+        "cold-start",
+        "computational social science",
+        "computer aided drug discovery",
+        "diversity",
+        "explainability",
+        "fairness",
+        "graph neural networks",
+        "graph representation learning",
+        "knowledge graphs",
+        "ligand-based",
+        "network embedding",
+        "recommender systems",
+        "responsible and trustworthy ai",
+        "retrieval augmented generation",
+        "session-based",
+        "signed networks",
+        "social network analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Vanderbilt University",
+      "affiliation_domain": "vanderbilt.edu",
+      "affiliation_country": null,
+      "research_area_summary": "LLMs, QSAR, cold-start, computational social science, computer aided drug discovery",
+      "depth": 2,
+      "direct_advisee_count": 4,
+      "total_descendants": 4
+    },
+    {
+      "id": "~Wei_Jin4",
+      "name": "Wei Jin",
+      "homepage": "https://openreview.net/profile?id=~Wei_Jin4",
+      "affiliation": {
+        "name": "Emory University",
+        "domain": "emory.edu"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Graph Neural Networks",
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Emory University",
+      "affiliation_domain": "emory.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Graph Neural Networks, Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 3,
+      "total_descendants": 3
+    },
+    {
+      "id": "~Harry_Shomer1",
+      "name": "Harry Shomer",
+      "homepage": "https://openreview.net/profile?id=~Harry_Shomer1",
+      "affiliation": {
+        "name": "University of Texas at Arlington",
+        "domain": "uta.edu"
+      },
+      "expertise_keywords": [
+        "Graph Neural Networks",
+        "Link Prediction",
+        "Machine Learning on Graphs"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Texas at Arlington",
+      "affiliation_domain": "uta.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Networks, Link Prediction, Machine Learning on Graphs",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jingzhe_Liu1",
+      "name": "Jingzhe Liu",
+      "homepage": "https://openreview.net/profile?id=~Jingzhe_Liu1",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Juanhui_Li1",
+      "name": "Juanhui Li",
+      "homepage": "https://openreview.net/profile?id=~Juanhui_Li1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Large Language Models",
+        "graph machine learning",
+        "graph neural network",
+        "recommendation"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Models, graph machine learning, graph neural network, recommendation",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Pengfei_He2",
+      "name": "Pengfei He",
+      "homepage": "https://openreview.net/profile?id=~Pengfei_He2",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "LLM agent",
+        "adversarial learning",
+        "backdoor",
+        "data poisoning",
+        "deep learning",
+        "large language model",
+        "spectral clustering"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "LLM agent, adversarial learning, backdoor, data poisoning, deep learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shen_Dong4",
+      "name": "Shen Dong",
+      "homepage": "https://openreview.net/profile?id=~Shen_Dong4",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "AI Agent",
+        "Large Language Models",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "AI Agent, Large Language Models, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jie_Ren6",
+      "name": "Jie Ren",
+      "homepage": "https://openreview.net/profile?id=~Jie_Ren6",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Wenqi_Fan1",
+      "name": "Wenqi Fan",
+      "homepage": "https://openreview.net/profile?id=~Wenqi_Fan1",
+      "affiliation": {
+        "name": "The Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Large Language Models",
+        "Large Language Models (LLMs)",
+        "Trustworthy AI",
+        "graph mining",
+        "graph neural networks",
+        "recommender systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Large Language Models, Large Language Models (LLMs), Trustworthy AI, graph mining",
+      "depth": 2,
+      "direct_advisee_count": 7,
+      "total_descendants": 7
+    },
+    {
+      "id": "~Yaxin_Li3",
+      "name": "Yaxin Li",
+      "homepage": "https://openreview.net/profile?id=~Yaxin_Li3",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "adversarial robustness",
+        "large language models",
+        "multimodal language models"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "adversarial robustness, large language models, multimodal language models",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jay_Revolinsky1",
+      "name": "Jay Revolinsky",
+      "homepage": "https://openreview.net/profile?id=~Jay_Revolinsky1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Diffusion Models",
+        "Graph Generative Models",
+        "Graph Neural Networks"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Diffusion Models, Graph Generative Models, Graph Neural Networks",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zhikai_Chen3",
+      "name": "Zhikai Chen",
+      "homepage": "https://openreview.net/profile?id=~Zhikai_Chen3",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Hang_Li10",
+      "name": "Hang Li",
+      "homepage": "https://openreview.net/profile?id=~Hang_Li10",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "AI in Education",
+        "Graph Neural Network",
+        "Natural Language Processing",
+        "Text Mining"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI in Education, Graph Neural Network, Natural Language Processing, Text Mining",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Hongzhi_Wen1",
+      "name": "Hongzhi Wen",
+      "homepage": "https://openreview.net/profile?id=~Hongzhi_Wen1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Quang_Truong1",
+      "name": "Quang Truong",
+      "homepage": "https://openreview.net/profile?id=~Quang_Truong1",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "Deep Learning",
+        "Graph Learning",
+        "Relational Deep Learning",
+        "Topological Deep Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning, Graph Learning, Relational Deep Learning, Topological Deep Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xiaorui_Liu1",
+      "name": "Xiaorui Liu",
+      "homepage": "https://openreview.net/profile?id=~Xiaorui_Liu1",
+      "affiliation": {
+        "name": "North Carolina State University",
+        "domain": "ncsu.edu"
+      },
+      "expertise_keywords": [
+        "Deep Learning",
+        "Machine Learning",
+        "Optimization"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "North Carolina State University",
+      "affiliation_domain": "ncsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning, Machine Learning, Optimization",
+      "depth": 2,
+      "direct_advisee_count": 3,
+      "total_descendants": 3
+    },
+    {
+      "id": "~Yiqi_Wang6",
+      "name": "Yiqi Wang",
+      "homepage": "https://openreview.net/profile?id=~Yiqi_Wang6",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "Graph Neural Networks",
+        "LLM safety",
+        "LLM-enhanced graph study",
+        "Out-of-distribution study",
+        "Recommender Systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Networks, LLM safety, LLM-enhanced graph study, Out-of-distribution study, Recommender Systems",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Shenglai_Zeng2",
+      "name": "Shenglai Zeng",
+      "homepage": "https://openreview.net/profile?id=~Shenglai_Zeng2",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "Federated Learning",
+        "Large language models",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Federated Learning, Large language models, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Han_Xu1",
+      "name": "Han Xu",
+      "homepage": "https://openreview.net/profile?id=~Han_Xu1",
+      "affiliation": {
+        "name": "University of Arizona",
+        "domain": "arizona.edu"
+      },
+      "expertise_keywords": [
+        "Data mining",
+        "Machine learning",
+        "Trustworthy artificial intelligence"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Arizona",
+      "affiliation_domain": "arizona.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data mining, Machine learning, Trustworthy artificial intelligence",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Hamid_Karimi1",
+      "name": "Hamid Karimi",
+      "homepage": "https://openreview.net/profile?id=~Hamid_Karimi1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Educational Data Mining",
+        "Machine Learning",
+        "Social Media Mining"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Educational Data Mining, Machine Learning, Social Media Mining",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Yuping_Lin3",
+      "name": "Yuping Lin",
+      "homepage": "https://openreview.net/profile?id=~Yuping_Lin3",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [
+        "Large Language Models",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Models, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xiangyu_Zhao1",
+      "name": "Xiangyu Zhao",
+      "homepage": "https://openreview.net/profile?id=~Xiangyu_Zhao1",
+      "affiliation": {
+        "name": "City University of Hong Kong",
+        "domain": "cityu.edu.hk"
+      },
+      "expertise_keywords": [
+        "LLMs",
+        "large language models",
+        "recommendation",
+        "recommender systems",
+        "smart city",
+        "urban computing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "City University of Hong Kong",
+      "affiliation_domain": "cityu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "LLMs, large language models, recommendation, recommender systems, smart city",
+      "depth": 2,
+      "direct_advisee_count": 15,
+      "total_descendants": 16
+    },
+    {
+      "id": "~Zhiwei_Wang2",
+      "name": "Zhiwei Wang",
+      "homepage": "https://openreview.net/profile?id=~Zhiwei_Wang2",
+      "affiliation": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com"
+      },
+      "expertise_keywords": [
+        "Ads Ranking",
+        "Recommender Systems",
+        "Search Ranking",
+        "natural language processing",
+        "sequence modeling"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "LinkedIn",
+      "affiliation_domain": "linkedin.com",
+      "affiliation_country": null,
+      "research_area_summary": "Ads Ranking, Recommender Systems, Search Ranking, natural language processing, sequence modeling",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yingqian_Cui1",
+      "name": "Yingqian Cui",
+      "homepage": "https://openreview.net/profile?id=~Yingqian_Cui1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Trust worthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Trust worthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yao_Ma3",
+      "name": "Yao Ma",
+      "homepage": "https://openreview.net/profile?id=~Yao_Ma3",
+      "affiliation": {
+        "name": "Rensselaer Polytechnic Institute",
+        "domain": "rpi.edu"
+      },
+      "expertise_keywords": [
+        "graph machine learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rensselaer Polytechnic Institute",
+      "affiliation_domain": "rpi.edu",
+      "affiliation_country": null,
+      "research_area_summary": "graph machine learning",
+      "depth": 2,
+      "direct_advisee_count": 4,
+      "total_descendants": 4
+    },
+    {
+      "id": "~Hua_Liu2",
+      "name": "Hua Liu",
+      "homepage": "https://openreview.net/profile?id=~Hua_Liu2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Graph Neural Networks"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Networks",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiayuan_Ding1",
+      "name": "Jiayuan Ding",
+      "homepage": "https://openreview.net/profile?id=~Jiayuan_Ding1",
+      "affiliation": {
+        "name": "University of Southern California",
+        "domain": "usc.edu"
+      },
+      "expertise_keywords": [
+        "Deep Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Southern California",
+      "affiliation_domain": "usc.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Bingheng_Li1",
+      "name": "Bingheng Li",
+      "homepage": "https://openreview.net/profile?id=~Bingheng_Li1",
+      "affiliation": {
+        "name": "Michigan State University",
+        "domain": "msu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Michigan State University",
+      "affiliation_domain": "msu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Wenzhuo_Tang1",
+      "name": "Wenzhuo Tang",
+      "homepage": "https://openreview.net/profile?id=~Wenzhuo_Tang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "computational biology",
+        "deep learning",
+        "graph neural networks"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "computational biology, deep learning, graph neural networks",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yu_Wang41",
+      "name": "Yu Wang",
+      "homepage": "https://openreview.net/profile?id=~Yu_Wang41",
+      "affiliation": {
+        "name": "University of Oregon",
+        "domain": "uoregon.edu"
+      },
+      "expertise_keywords": [
+        "Data Mining and Machine Learning",
+        "Generative AI",
+        "Graph Machine Learning",
+        "Information Retrieval",
+        "Knowledge Graph",
+        "Retrieval Augmented Generation"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Oregon",
+      "affiliation_domain": "uoregon.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining and Machine Learning, Generative AI, Graph Machine Learning, Information Retrieval, Knowledge Graph",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yuying_Zhao1",
+      "name": "Yuying Zhao",
+      "homepage": "https://openreview.net/profile?id=~Yuying_Zhao1",
+      "affiliation": {
+        "name": "Accenture",
+        "domain": "accenture.com"
+      },
+      "expertise_keywords": [
+        "Graph Neural Network",
+        "Responsible AI",
+        "Social Network Analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Accenture",
+      "affiliation_domain": "accenture.com",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Network, Responsible AI, Social Network Analysis",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xueqi_Cheng2",
+      "name": "Xueqi Cheng",
+      "homepage": "https://openreview.net/profile?id=~Xueqi_Cheng2",
+      "affiliation": {
+        "name": "Florida State University",
+        "domain": "fsu.edu"
+      },
+      "expertise_keywords": [
+        "Deep learning on graphs"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Florida State University",
+      "affiliation_domain": "fsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Deep learning on graphs",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Bo_Ni1",
+      "name": "Bo Ni",
+      "homepage": "https://openreview.net/profile?id=~Bo_Ni1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shengbo_Gong1",
+      "name": "Shengbo Gong",
+      "homepage": "https://openreview.net/profile?id=~Shengbo_Gong1",
+      "affiliation": {
+        "name": "Emory University",
+        "domain": "emory.edu"
+      },
+      "expertise_keywords": [
+        "Artificial Intelligence",
+        "Efficient AI",
+        "Graph Neural Network"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Emory University",
+      "affiliation_domain": "emory.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Artificial Intelligence, Efficient AI, Graph Neural Network",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Juntong_Ni1",
+      "name": "Juntong Ni",
+      "homepage": "https://openreview.net/profile?id=~Juntong_Ni1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Machine Learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zewen_Liu2",
+      "name": "Zewen Liu",
+      "homepage": "https://openreview.net/profile?id=~Zewen_Liu2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Epidemic Modeling",
+        "Graph Neural Networks",
+        "Large Language Models",
+        "Time Series Analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Epidemic Modeling, Graph Neural Networks, Large Language Models, Time Series Analysis",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiatong_LI4",
+      "name": "Jiatong LI",
+      "homepage": "https://openreview.net/profile?id=~Jiatong_LI4",
+      "affiliation": {
+        "name": "Hong Kong Polytechnic University",
+        "domain": "connect.polyu.hk"
+      },
+      "expertise_keywords": [
+        "Bioinformatics"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Hong Kong Polytechnic University",
+      "affiliation_domain": "connect.polyu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Bioinformatics",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Liang-bo_Ning1",
+      "name": "Liang-bo Ning",
+      "homepage": "https://openreview.net/profile?id=~Liang-bo_Ning1",
+      "affiliation": {
+        "name": "The Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Adversarial attack",
+        "Transfer learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Adversarial attack, Transfer learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Haohao_Qu1",
+      "name": "Haohao Qu",
+      "homepage": "https://openreview.net/profile?id=~Haohao_Qu1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Intelligent Transportation Systems",
+        "Large Language Models",
+        "Recommender Systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Intelligent Transportation Systems, Large Language Models, Recommender Systems",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiani_Huang2",
+      "name": "Jiani Huang",
+      "homepage": "https://openreview.net/profile?id=~Jiani_Huang2",
+      "affiliation": {
+        "name": "Hong Kong Polytechinic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Hong Kong Polytechinic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yunqing_LIU1",
+      "name": "Yunqing LIU",
+      "homepage": "https://openreview.net/profile?id=~Yunqing_LIU1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "AI4S",
+        "NLP"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "AI4S, NLP",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shijie_Wang8",
+      "name": "Shijie Wang",
+      "homepage": "https://openreview.net/profile?id=~Shijie_Wang8",
+      "affiliation": {
+        "name": "The Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Graph Neural Network",
+        "Large Language Model",
+        "Recommender System"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Network, Large Language Model, Recommender System",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Chengyi_LIU1",
+      "name": "Chengyi LIU",
+      "homepage": "https://openreview.net/profile?id=~Chengyi_LIU1",
+      "affiliation": {
+        "name": "Hong Kong Polytechnic University",
+        "domain": "connect.polyu.hk"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Hong Kong Polytechnic University",
+      "affiliation_domain": "connect.polyu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Weizhi_Gao1",
+      "name": "Weizhi Gao",
+      "homepage": "https://openreview.net/profile?id=~Weizhi_Gao1",
+      "affiliation": {
+        "name": "North Carolina State University",
+        "domain": "ncsu.edu"
+      },
+      "expertise_keywords": [
+        "Implicit model",
+        "Robustness"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "North Carolina State University",
+      "affiliation_domain": "ncsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Implicit model, Robustness",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Rui_Xue1",
+      "name": "Rui Xue",
+      "homepage": "https://openreview.net/profile?id=~Rui_Xue1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Machine Learning",
+        "Signal Processing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Machine Learning, Signal Processing",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zhichao_Hou1",
+      "name": "Zhichao Hou",
+      "homepage": "https://openreview.net/profile?id=~Zhichao_Hou1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Adversarial Robustness"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Adversarial Robustness",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiaxin_Zhang10",
+      "name": "Jiaxin Zhang",
+      "homepage": "https://openreview.net/profile?id=~Jiaxin_Zhang10",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "graph representation learning",
+        "out-of-distribution",
+        "test-time training"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "graph representation learning, out-of-distribution, test-time training",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Soheila_Farokhi1",
+      "name": "Soheila Farokhi",
+      "homepage": "https://openreview.net/profile?id=~Soheila_Farokhi1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ziru_Liu1",
+      "name": "Ziru Liu",
+      "homepage": "https://openreview.net/profile?id=~Ziru_Liu1",
+      "affiliation": {
+        "name": "Huawei Technologies Ltd.",
+        "domain": "huawei.com"
+      },
+      "expertise_keywords": [
+        "Deep Learning",
+        "Recommender Systems",
+        "Reinforcement Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Huawei Technologies Ltd.",
+      "affiliation_domain": "huawei.com",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning, Recommender Systems, Reinforcement Learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Pengyue_Jia1",
+      "name": "Pengyue Jia",
+      "homepage": "https://openreview.net/profile?id=~Pengyue_Jia1",
+      "affiliation": {
+        "name": "City University of Hong Kong",
+        "domain": "cityu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Information Retrieval",
+        "Large Language Models",
+        "Recommender System"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "City University of Hong Kong",
+      "affiliation_domain": "cityu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Information Retrieval, Large Language Models, Recommender System",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Langming_Liu1",
+      "name": "Langming Liu",
+      "homepage": "https://openreview.net/profile?id=~Langming_Liu1",
+      "affiliation": {
+        "name": "Alibaba Group",
+        "domain": "alibaba-inc.com"
+      },
+      "expertise_keywords": [
+        "Large language models",
+        "Recommendation"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Alibaba Group",
+      "affiliation_domain": "alibaba-inc.com",
+      "affiliation_country": null,
+      "research_area_summary": "Large language models, Recommendation",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xiao_Han11",
+      "name": "Xiao Han",
+      "homepage": "https://openreview.net/profile?id=~Xiao_Han11",
+      "affiliation": {
+        "name": "Zhejiang University of Technology",
+        "domain": "zjut.edu.cn"
+      },
+      "expertise_keywords": [
+        "Graph Neural Networks",
+        "Intelligent Traffic Systems",
+        "Learning Theory",
+        "Natural Language Processing",
+        "Recommender Systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Zhejiang University of Technology",
+      "affiliation_domain": "zjut.edu.cn",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Networks, Intelligent Traffic Systems, Learning Theory, Natural Language Processing, Recommender Systems",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jingtong_Gao1",
+      "name": "Jingtong Gao",
+      "homepage": "https://openreview.net/profile?id=~Jingtong_Gao1",
+      "affiliation": {
+        "name": "City University of Hong Kong",
+        "domain": "cityu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Deep Learning",
+        "Large Language Model",
+        "Recommender System"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "City University of Hong Kong",
+      "affiliation_domain": "cityu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning, Large Language Model, Recommender System",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Maoin_Wang1",
+      "name": "Maoin Wang",
+      "homepage": "https://openreview.net/profile?id=~Maoin_Wang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "LLM",
+        "Model Compression",
+        "Tensor Methods"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "LLM, Model Compression, Tensor Methods",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yingyi_Zhang4",
+      "name": "Yingyi Zhang",
+      "homepage": "https://openreview.net/profile?id=~Yingyi_Zhang4",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Large Language Model",
+        "Recommender System"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Model, Recommender System",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zijian_Zhang5",
+      "name": "Zijian Zhang",
+      "homepage": "https://openreview.net/profile?id=~Zijian_Zhang5",
+      "affiliation": {
+        "name": "Jilin University",
+        "domain": "jlu.edu.cn"
+      },
+      "expertise_keywords": [
+        "Federated learning",
+        "Graph representation learning",
+        "Large-Language Model",
+        "Multi-task learning",
+        "Recommender system",
+        "Spatio-temporal data mining",
+        "Time series analysis",
+        "Traffic prediction"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Jilin University",
+      "affiliation_domain": "jlu.edu.cn",
+      "affiliation_country": null,
+      "research_area_summary": "Federated learning, Graph representation learning, Large-Language Model, Multi-task learning, Recommender system",
+      "depth": 3,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Xiaopeng_Li11",
+      "name": "Xiaopeng Li",
+      "homepage": "https://openreview.net/profile?id=~Xiaopeng_Li11",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Information Retrieval",
+        "Recommendation system"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Information Retrieval, Recommendation system",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Qidong_Liu2",
+      "name": "Qidong Liu",
+      "homepage": "https://openreview.net/profile?id=~Qidong_Liu2",
+      "affiliation": {
+        "name": "Xi'an Jiaotong University",
+        "domain": "xjtu.edu.cn"
+      },
+      "expertise_keywords": [
+        "Causal Inference",
+        "Large Language Model",
+        "Recommender Systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Xi'an Jiaotong University",
+      "affiliation_domain": "xjtu.edu.cn",
+      "affiliation_country": null,
+      "research_area_summary": "Causal Inference, Large Language Model, Recommender Systems",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~wenlin_zhang4",
+      "name": "wenlin zhang",
+      "homepage": "https://openreview.net/profile?id=~wenlin_zhang4",
+      "affiliation": {
+        "name": "City University of Hong Kong",
+        "domain": "cityu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Large Language Model",
+        "Recommender System"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "City University of Hong Kong",
+      "affiliation_domain": "cityu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Model, Recommender System",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Bowen_Yu5",
+      "name": "Bowen Yu",
+      "homepage": "https://openreview.net/profile?id=~Bowen_Yu5",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "LLM",
+        "Power quality acquisition and filtering",
+        "multimodal Recommender Systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "LLM, Power quality acquisition and filtering, multimodal Recommender Systems",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yejing_Wang1",
+      "name": "Yejing Wang",
+      "homepage": "https://openreview.net/profile?id=~Yejing_Wang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~ZIMO_ZHAO1",
+      "name": "ZIMO ZHAO",
+      "homepage": "https://openreview.net/profile?id=~ZIMO_ZHAO1",
+      "affiliation": {
+        "name": "City University of Hong Kong",
+        "domain": "my.cityu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Recommendations",
+        "Urban Computing",
+        "large language models"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "City University of Hong Kong",
+      "affiliation_domain": "my.cityu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Recommendations, Urban Computing, large language models",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Derong_Xu1",
+      "name": "Derong Xu",
+      "homepage": "https://openreview.net/profile?id=~Derong_Xu1",
+      "affiliation": {
+        "name": "City University of Hong Kong",
+        "domain": "my.cityu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Knowledge Graph",
+        "Large Language Models",
+        "Retrieval-Augmented Generation"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "City University of Hong Kong",
+      "affiliation_domain": "my.cityu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Knowledge Graph, Large Language Models, Retrieval-Augmented Generation",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yuanzhe_Liu1",
+      "name": "Yuanzhe Liu",
+      "homepage": "https://openreview.net/profile?id=~Yuanzhe_Liu1",
+      "affiliation": {
+        "name": "Rensselaer Polytechnic Institute",
+        "domain": "rpi.edu"
+      },
+      "expertise_keywords": [
+        "approximation theory",
+        "deep learning",
+        "diffusion conditional generation",
+        "large language model for code generation and code optimization",
+        "music generation"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rensselaer Polytechnic Institute",
+      "affiliation_domain": "rpi.edu",
+      "affiliation_country": null,
+      "research_area_summary": "approximation theory, deep learning, diffusion conditional generation, large language model for code generation and code optimization, music generation",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Qian_Ma1",
+      "name": "Qian Ma",
+      "homepage": "https://openreview.net/profile?id=~Qian_Ma1",
+      "affiliation": {
+        "name": "Rensselaer Polytechnic Institute",
+        "domain": "rpi.edu"
+      },
+      "expertise_keywords": [
+        "Graph Machine Learning",
+        "Multi-modal learning",
+        "RAG",
+        "Spation-temporal Data Mining",
+        "Urban Computing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rensselaer Polytechnic Institute",
+      "affiliation_domain": "rpi.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Machine Learning, Multi-modal learning, RAG, Spation-temporal Data Mining, Urban Computing",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Liangliang_Zhang3",
+      "name": "Liangliang Zhang",
+      "homepage": "https://openreview.net/profile?id=~Liangliang_Zhang3",
+      "affiliation": {
+        "name": "Rensselaer Polytechnic Institute",
+        "domain": "rpi.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rensselaer Polytechnic Institute",
+      "affiliation_domain": "rpi.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Hongliang_Chi1",
+      "name": "Hongliang Chi",
+      "homepage": "https://openreview.net/profile?id=~Hongliang_Chi1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Data Centric AI",
+        "Data Valuation",
+        "Graph Neural Network",
+        "Large Language Models for Decision Making",
+        "Operations Research",
+        "Optimization",
+        "Optimization for Large Language Models",
+        "Self-Supervised Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Data Centric AI, Data Valuation, Graph Neural Network, Large Language Models for Decision Making, Operations Research",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Mingyuan_Xia2",
+      "name": "Mingyuan Xia",
+      "homepage": "https://openreview.net/profile?id=~Mingyuan_Xia2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 4,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xia_Hu2",
+      "name": "Xia Hu",
+      "homepage": "https://openreview.net/profile?id=~Xia_Hu2",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [
+        "Interpretable Machine Learning",
+        "Network Analytics"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Interpretable Machine Learning, Network Analytics",
+      "depth": 1,
+      "direct_advisee_count": 29,
+      "total_descendants": 49
+    },
+    {
+      "id": "~Qingquan_Song2",
+      "name": "Qingquan Song",
+      "homepage": "https://openreview.net/profile?id=~Qingquan_Song2",
+      "affiliation": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com"
+      },
+      "expertise_keywords": [
+        "automated machine learning",
+        "continual learning",
+        "recommender systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "LinkedIn",
+      "affiliation_domain": "linkedin.com",
+      "affiliation_country": null,
+      "research_area_summary": "automated machine learning, continual learning, recommender systems",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zhimeng_Jiang1",
+      "name": "Zhimeng Jiang",
+      "homepage": "https://openreview.net/profile?id=~Zhimeng_Jiang1",
+      "affiliation": {
+        "name": "Google",
+        "domain": "google.com"
+      },
+      "expertise_keywords": [
+        "Fairness in AI",
+        "Graph Neural Network"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Google",
+      "affiliation_domain": "google.com",
+      "affiliation_country": null,
+      "research_area_summary": "Fairness in AI, Graph Neural Network",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Fan_Yang27",
+      "name": "Fan Yang",
+      "homepage": "https://openreview.net/profile?id=~Fan_Yang27",
+      "affiliation": {
+        "name": "Wake Forest University",
+        "domain": "wfu.edu"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Interpretable Machine Learning",
+        "Networking",
+        "Optimization",
+        "Wireless Communication",
+        "XAI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Wake Forest University",
+      "affiliation_domain": "wfu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Interpretable Machine Learning, Networking, Optimization, Wireless Communication",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiayi_Yuan1",
+      "name": "Jiayi Yuan",
+      "homepage": "https://openreview.net/profile?id=~Jiayi_Yuan1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Leisheng_Yu1",
+      "name": "Leisheng Yu",
+      "homepage": "https://openreview.net/profile?id=~Leisheng_Yu1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "AI for Healthcare",
+        "Large Language Models",
+        "Recommender Systems",
+        "Small-Large Model Collaboration",
+        "Trustworthy Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Healthcare, Large Language Models, Recommender Systems, Small-Large Model Collaboration, Trustworthy Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Diego_Martinez1",
+      "name": "Diego Martinez",
+      "homepage": "https://openreview.net/profile?id=~Diego_Martinez1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Automated Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Automated Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Mengnan_Du1",
+      "name": "Mengnan Du",
+      "homepage": "https://openreview.net/profile?id=~Mengnan_Du1",
+      "affiliation": {
+        "name": "New Jersey Institute of Technology",
+        "domain": "njit.edu"
+      },
+      "expertise_keywords": [
+        "Explainability",
+        "Fairness",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "New Jersey Institute of Technology",
+      "affiliation_domain": "njit.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Explainability, Fairness, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Chia-Yuan_Chang3",
+      "name": "Chia-Yuan Chang",
+      "homepage": "https://openreview.net/profile?id=~Chia-Yuan_Chang3",
+      "affiliation": {
+        "name": "Texas A&M University - College Station",
+        "domain": "tamu.edu"
+      },
+      "expertise_keywords": [
+        "Large Language Models",
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Texas A&M University - College Station",
+      "affiliation_domain": "tamu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Models, Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Kaixiong_Zhou1",
+      "name": "Kaixiong Zhou",
+      "homepage": "https://openreview.net/profile?id=~Kaixiong_Zhou1",
+      "affiliation": {
+        "name": "North Carolina State University",
+        "domain": "ncsu.edu"
+      },
+      "expertise_keywords": [
+        "AI for Science",
+        "Graph Representation Learning",
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "North Carolina State University",
+      "affiliation_domain": "ncsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Science, Graph Representation Learning, Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 2,
+      "total_descendants": 2
+    },
+    {
+      "id": "~Qiaoyu_Tan2",
+      "name": "Qiaoyu Tan",
+      "homepage": "https://openreview.net/profile?id=~Qiaoyu_Tan2",
+      "affiliation": {
+        "name": "New York University Shanghai",
+        "domain": "nyu.edu"
+      },
+      "expertise_keywords": [
+        "Graph neural networks",
+        "Large language model",
+        "Multimodal alignment",
+        "Recommender systems",
+        "Vision-language models"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "New York University Shanghai",
+      "affiliation_domain": "nyu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph neural networks, Large language model, Multimodal alignment, Recommender systems, Vision-language models",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Zirui_Liu1",
+      "name": "Zirui Liu",
+      "homepage": "https://openreview.net/profile?id=~Zirui_Liu1",
+      "affiliation": {
+        "name": "University of Minnesota - Twin Cities",
+        "domain": "umn.edu"
+      },
+      "expertise_keywords": [
+        "large language model",
+        "machine learning system"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Minnesota - Twin Cities",
+      "affiliation_domain": "umn.edu",
+      "affiliation_country": null,
+      "research_area_summary": "large language model, machine learning system",
+      "depth": 2,
+      "direct_advisee_count": 2,
+      "total_descendants": 2
+    },
+    {
+      "id": "~Guanchu_Wang1",
+      "name": "Guanchu Wang",
+      "homepage": "https://openreview.net/profile?id=~Guanchu_Wang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Daochen_Zha1",
+      "name": "Daochen Zha",
+      "homepage": "https://openreview.net/profile?id=~Daochen_Zha1",
+      "affiliation": {
+        "name": "Airbnb",
+        "domain": "airbnb.com"
+      },
+      "expertise_keywords": [
+        "Automated Machine Learning",
+        "Graph Neural Networks",
+        "Neural Architecture Search",
+        "Reinforcement Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Airbnb",
+      "affiliation_domain": "airbnb.com",
+      "affiliation_country": null,
+      "research_area_summary": "Automated Machine Learning, Graph Neural Networks, Neural Architecture Search, Reinforcement Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Qizhang_Feng1",
+      "name": "Qizhang Feng",
+      "homepage": "https://openreview.net/profile?id=~Qizhang_Feng1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "deep learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "deep learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xiaotian_Han1",
+      "name": "Xiaotian Han",
+      "homepage": "https://openreview.net/profile?id=~Xiaotian_Han1",
+      "affiliation": {
+        "name": "Case Western Reserve University",
+        "domain": "case.edu"
+      },
+      "expertise_keywords": [
+        "Language Model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Case Western Reserve University",
+      "affiliation_domain": "case.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Language Model",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Xiao_Huang1",
+      "name": "Xiao Huang",
+      "homepage": "https://openreview.net/profile?id=~Xiao_Huang1",
+      "affiliation": {
+        "name": "The Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [
+        "data mining",
+        "machine learning",
+        "network analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "data mining, machine learning, network analysis",
+      "depth": 2,
+      "direct_advisee_count": 9,
+      "total_descendants": 9
+    },
+    {
+      "id": "~Keyu_Duan1",
+      "name": "Keyu Duan",
+      "homepage": "https://openreview.net/profile?id=~Keyu_Duan1",
+      "affiliation": {
+        "name": "national university of singaore, National University of Singapore",
+        "domain": "u.nus.edu"
+      },
+      "expertise_keywords": [
+        "Graph Neural Network",
+        "Network Analytics"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "national university of singaore, National University of Singapore",
+      "affiliation_domain": "u.nus.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Network, Network Analytics",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yu-Neng_Chuang1",
+      "name": "Yu-Neng Chuang",
+      "homepage": "https://openreview.net/profile?id=~Yu-Neng_Chuang1",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Feng_Luo4",
+      "name": "Feng Luo",
+      "homepage": "https://openreview.net/profile?id=~Feng_Luo4",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [
+        "Instance Segmentation",
+        "Large Language Model",
+        "Medical Image Analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Instance Segmentation, Large Language Model, Medical Image Analysis",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiamu_Zhang1",
+      "name": "Jiamu Zhang",
+      "homepage": "https://openreview.net/profile?id=~Jiamu_Zhang1",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [
+        "ML Efficiency",
+        "ML Model Architecture",
+        "MoE"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "ML Efficiency, ML Model Architecture, MoE",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Andrew_Wen2",
+      "name": "Andrew Wen",
+      "homepage": "https://openreview.net/profile?id=~Andrew_Wen2",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Songyuan_Sui1",
+      "name": "Songyuan Sui",
+      "homepage": "https://openreview.net/profile?id=~Songyuan_Sui1",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [
+        "Agentic AI",
+        "LLM",
+        "NLP",
+        "Time Series Analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Agentic AI, LLM, NLP, Time Series Analysis",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ninghao_Liu1",
+      "name": "Ninghao Liu",
+      "homepage": "https://openreview.net/profile?id=~Ninghao_Liu1",
+      "affiliation": {
+        "name": "Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [
+        "Explainable Artificial Intelligence",
+        "Graph Neural Networks",
+        "LLM Agents",
+        "Self-Supervised Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Explainable Artificial Intelligence, Graph Neural Networks, LLM Agents, Self-Supervised Learning",
+      "depth": 2,
+      "direct_advisee_count": 3,
+      "total_descendants": 3
+    },
+    {
+      "id": "~Yang_Sui1",
+      "name": "Yang Sui",
+      "homepage": "https://openreview.net/profile?id=~Yang_Sui1",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [
+        "Computer Vision",
+        "Deep Learning",
+        "Efficient AI",
+        "Model Compression",
+        "Natural Language Processing",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Computer Vision, Deep Learning, Efficient AI, Model Compression, Natural Language Processing",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shaochen_Zhong1",
+      "name": "Shaochen Zhong",
+      "homepage": "https://openreview.net/profile?id=~Shaochen_Zhong1",
+      "affiliation": {
+        "name": "Rice University",
+        "domain": "rice.edu"
+      },
+      "expertise_keywords": [
+        "Efficiency",
+        "Knowledge Editing",
+        "Theory"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rice University",
+      "affiliation_domain": "rice.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Efficiency, Knowledge Editing, Theory",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yicheng_Wang1",
+      "name": "Yicheng Wang",
+      "homepage": "https://openreview.net/profile?id=~Yicheng_Wang1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Automated Machine Learning",
+        "Computer Vision",
+        "Multi-Modality",
+        "Physics-Informed Neural Network"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Automated Machine Learning, Computer Vision, Multi-Modality, Physics-Informed Neural Network",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Kwei-Herng_Lai1",
+      "name": "Kwei-Herng Lai",
+      "homepage": "https://openreview.net/profile?id=~Kwei-Herng_Lai1",
+      "affiliation": {
+        "name": "Microsoft",
+        "domain": "microsoft.com"
+      },
+      "expertise_keywords": [
+        "Anomaly Detection",
+        "Graph Neural Networks",
+        "Large Language Model",
+        "Reinforcement Learning",
+        "Synthetic Data Generation",
+        "Time Series Analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Microsoft",
+      "affiliation_domain": "microsoft.com",
+      "affiliation_country": null,
+      "research_area_summary": "Anomaly Detection, Graph Neural Networks, Large Language Model, Reinforcement Learning, Synthetic Data Generation",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Sirui_Ding1",
+      "name": "Sirui Ding",
+      "homepage": "https://openreview.net/profile?id=~Sirui_Ding1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "AI for Health",
+        "Biomedical Data Science",
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Health, Biomedical Data Science, Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ruixiang_Tang1",
+      "name": "Ruixiang Tang",
+      "homepage": "https://openreview.net/profile?id=~Ruixiang_Tang1",
+      "affiliation": {
+        "name": "Rutgers University",
+        "domain": "rutgers.edu"
+      },
+      "expertise_keywords": [
+        "Explainable AI (XAI)",
+        "Healthcare",
+        "Machine learning Privacy",
+        "Machine learning Security"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rutgers University",
+      "affiliation_domain": "rutgers.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Explainable AI (XAI), Healthcare, Machine learning Privacy, Machine learning Security",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Haiyan_Zhao3",
+      "name": "Haiyan Zhao",
+      "homepage": "https://openreview.net/profile?id=~Haiyan_Zhao3",
+      "affiliation": {
+        "name": "New Jersey Institute of Technology",
+        "domain": "njit.edu"
+      },
+      "expertise_keywords": [
+        "Explanability",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "New Jersey Institute of Technology",
+      "affiliation_domain": "njit.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Explanability, Trustworthy AI",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yang_Ouyang1",
+      "name": "Yang Ouyang",
+      "homepage": "https://openreview.net/profile?id=~Yang_Ouyang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "AI4Science",
+        "Model Efficiency",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "AI4Science, Model Efficiency, Trustworthy AI",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Hengrui_Gu1",
+      "name": "Hengrui Gu",
+      "homepage": "https://openreview.net/profile?id=~Hengrui_Gu1",
+      "affiliation": {
+        "name": "North Carolina State University",
+        "domain": "ncsu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "North Carolina State University",
+      "affiliation_domain": "ncsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Dongzhe_Fan2",
+      "name": "Dongzhe Fan",
+      "homepage": "https://openreview.net/profile?id=~Dongzhe_Fan2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "GraphLLM",
+        "GraphRAG",
+        "Multimodal Graphs"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "GraphLLM, GraphRAG, Multimodal Graphs",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Wenya_Xie1",
+      "name": "Wenya Xie",
+      "homepage": "https://openreview.net/profile?id=~Wenya_Xie1",
+      "affiliation": {
+        "name": "University of Minnesota - Twin Cities",
+        "domain": "umn.edu"
+      },
+      "expertise_keywords": [
+        "large language model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Minnesota - Twin Cities",
+      "affiliation_domain": "umn.edu",
+      "affiliation_country": null,
+      "research_area_summary": "large language model",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xinheng_Ding1",
+      "name": "Xinheng Ding",
+      "homepage": "https://openreview.net/profile?id=~Xinheng_Ding1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "High Performance Computing",
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "High Performance Computing, Machine Learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Van_Yang1",
+      "name": "Van Yang",
+      "homepage": "https://openreview.net/profile?id=~Van_Yang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Large Language Model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Model",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zijin_Hong1",
+      "name": "Zijin Hong",
+      "homepage": "https://openreview.net/profile?id=~Zijin_Hong1",
+      "affiliation": {
+        "name": "The Hong Kong Polytechnic University",
+        "domain": "connect.polyu.hk"
+      },
+      "expertise_keywords": [
+        "Large Language Models",
+        "Natural Language Processing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong Polytechnic University",
+      "affiliation_domain": "connect.polyu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Models, Natural Language Processing",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Su_Dong1",
+      "name": "Su Dong",
+      "homepage": "https://openreview.net/profile?id=~Su_Dong1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Large Language Model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Model",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~CHEN_SHENGYUAN1",
+      "name": "CHEN SHENGYUAN",
+      "homepage": "https://openreview.net/profile?id=~CHEN_SHENGYUAN1",
+      "affiliation": {
+        "name": "Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xin_Zhang17",
+      "name": "Xin Zhang",
+      "homepage": "https://openreview.net/profile?id=~Xin_Zhang17",
+      "affiliation": {
+        "name": "The Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [
+        "deep learning",
+        "graph neural networks"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "deep learning, graph neural networks",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shuang_Zhou1",
+      "name": "Shuang Zhou",
+      "homepage": "https://openreview.net/profile?id=~Shuang_Zhou1",
+      "affiliation": {
+        "name": "University of Minnesota - Twin Cities",
+        "domain": "umn.edu"
+      },
+      "expertise_keywords": [
+        "AI for medicine",
+        "deep learning",
+        "graph neural networks",
+        "large language models"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Minnesota - Twin Cities",
+      "affiliation_domain": "umn.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI for medicine, deep learning, graph neural networks, large language models",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Qinggang_Zhang2",
+      "name": "Qinggang Zhang",
+      "homepage": "https://openreview.net/profile?id=~Qinggang_Zhang2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "GraphRAG",
+        "RAG"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "GraphRAG, RAG",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiahe_Du1",
+      "name": "Jiahe Du",
+      "homepage": "https://openreview.net/profile?id=~Jiahe_Du1",
+      "affiliation": {
+        "name": "Hong Kong Polytechnic University",
+        "domain": "polyu.edu.hk"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Hong Kong Polytechnic University",
+      "affiliation_domain": "polyu.edu.hk",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Junnan_Dong1",
+      "name": "Junnan Dong",
+      "homepage": "https://openreview.net/profile?id=~Junnan_Dong1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "GraphRAG",
+        "Knowledge-based question answering",
+        "Text2SQL"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "GraphRAG, Knowledge-based question answering, Text2SQL",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Chang_Yang3",
+      "name": "Chang Yang",
+      "homepage": "https://openreview.net/profile?id=~Chang_Yang3",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xuansheng_Wu1",
+      "name": "Xuansheng Wu",
+      "homepage": "https://openreview.net/profile?id=~Xuansheng_Wu1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "interpretability",
+        "natural language processing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "interpretability, natural language processing",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Tianze_Yang2",
+      "name": "Tianze Yang",
+      "homepage": "https://openreview.net/profile?id=~Tianze_Yang2",
+      "affiliation": {
+        "name": "University of Georgia",
+        "domain": "uga.edu"
+      },
+      "expertise_keywords": [
+        "Computer Vision",
+        "Deep Learning",
+        "Reinforcement Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Georgia",
+      "affiliation_domain": "uga.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Computer Vision, Deep Learning, Reinforcement Learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yucheng_Shi2",
+      "name": "Yucheng Shi",
+      "homepage": "https://openreview.net/profile?id=~Yucheng_Shi2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Large Language Models",
+        "Multi-modal Large Language Models",
+        "XAI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Models, Multi-modal Large Language Models, XAI",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shizeru1",
+      "name": "Shizeru",
+      "homepage": "https://openreview.net/profile?id=~Shizeru1",
+      "affiliation": {
+        "name": "Rutgers University",
+        "domain": "cs.rutgers.edu"
+      },
+      "expertise_keywords": [
+        "LLM Agent",
+        "LLM Reasoning",
+        "Trustworthy ML",
+        "XAI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Rutgers University",
+      "affiliation_domain": "cs.rutgers.edu",
+      "affiliation_country": null,
+      "research_area_summary": "LLM Agent, LLM Reasoning, Trustworthy ML, XAI",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Reza_Zafarani1",
+      "name": "Reza Zafarani",
+      "homepage": "https://openreview.net/profile?id=~Reza_Zafarani1",
+      "affiliation": {
+        "name": "Syracuse University",
+        "domain": "syr.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Syracuse University",
+      "affiliation_domain": "syr.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Fred_Morstatter1",
+      "name": "Fred Morstatter",
+      "homepage": "https://openreview.net/profile?id=~Fred_Morstatter1",
+      "affiliation": {
+        "name": "University of Southern California",
+        "domain": "usc.edu"
+      },
+      "expertise_keywords": [
+        "Bias Detection",
+        "Cultural Modeling",
+        "Data Mining",
+        "Forecasting",
+        "Machine Learning",
+        "Social Network Analysis"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Southern California",
+      "affiliation_domain": "usc.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Bias Detection, Cultural Modeling, Data Mining, Forecasting, Machine Learning",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Suhang_Wang1",
+      "name": "Suhang Wang",
+      "homepage": "https://openreview.net/profile?id=~Suhang_Wang1",
+      "affiliation": {
+        "name": "Pennsylvania State University",
+        "domain": "psu.edu"
+      },
+      "expertise_keywords": [
+        "Adversarial Learning",
+        "Deep Learning",
+        "Generative Adversarial Networks",
+        "Graph Mining",
+        "Graph Neural Networks"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Pennsylvania State University",
+      "affiliation_domain": "psu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Adversarial Learning, Deep Learning, Generative Adversarial Networks, Graph Mining, Graph Neural Networks",
+      "depth": 1,
+      "direct_advisee_count": 8,
+      "total_descendants": 10
+    },
+    {
+      "id": "~Xianfeng_Tang1",
+      "name": "Xianfeng Tang",
+      "homepage": "https://openreview.net/profile?id=~Xianfeng_Tang1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Machine learning",
+        "NLP"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Machine learning, NLP",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zongyu_Wu1",
+      "name": "Zongyu Wu",
+      "homepage": "https://openreview.net/profile?id=~Zongyu_Wu1",
+      "affiliation": {
+        "name": "The Pennsylvania State University",
+        "domain": "psu.edu"
+      },
+      "expertise_keywords": [
+        "Graph Learning",
+        "Language Model",
+        "Multimodal"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Pennsylvania State University",
+      "affiliation_domain": "psu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Learning, Language Model, Multimodal",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jiahao_Zhang1",
+      "name": "Jiahao Zhang",
+      "homepage": "https://openreview.net/profile?id=~Jiahao_Zhang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Affective Computing",
+        "Computer Vision",
+        "Generative Models",
+        "Graph Neural Networks",
+        "Recommender System"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Affective Computing, Computer Vision, Generative Models, Graph Neural Networks, Recommender System",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Tianxiang_Zhao1",
+      "name": "Tianxiang Zhao",
+      "homepage": "https://openreview.net/profile?id=~Tianxiang_Zhao1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Minhua_Lin1",
+      "name": "Minhua Lin",
+      "homepage": "https://openreview.net/profile?id=~Minhua_Lin1",
+      "affiliation": {
+        "name": "Pennsylvania State University",
+        "domain": "psu.edu"
+      },
+      "expertise_keywords": [
+        "Graph Neural Networks",
+        "Large Language Model",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Pennsylvania State University",
+      "affiliation_domain": "psu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Networks, Large Language Model, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Enyan_Dai1",
+      "name": "Enyan Dai",
+      "homepage": "https://openreview.net/profile?id=~Enyan_Dai1",
+      "affiliation": {
+        "name": "HKUST(GZ)",
+        "domain": "hkust-gz.edu.cn"
+      },
+      "expertise_keywords": [
+        "Graph Neural Network",
+        "Social network analysis",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "HKUST(GZ)",
+      "affiliation_domain": "hkust-gz.edu.cn",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Neural Network, Social network analysis, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 2,
+      "total_descendants": 2
+    },
+    {
+      "id": "~Xianren_Zhang1",
+      "name": "Xianren Zhang",
+      "homepage": "https://openreview.net/profile?id=~Xianren_Zhang1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Large Language Model",
+        "Model Explainability",
+        "Multi-modal Large Language Model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Model, Model Explainability, Multi-modal Large Language Model",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zhiwei_Zhang10",
+      "name": "Zhiwei Zhang",
+      "homepage": "https://openreview.net/profile?id=~Zhiwei_Zhang10",
+      "affiliation": {
+        "name": "Pennsylvania State University",
+        "domain": "psu.edu"
+      },
+      "expertise_keywords": [
+        "Trustworthy Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Pennsylvania State University",
+      "affiliation_domain": "psu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Trustworthy Machine Learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shuo_Yan4",
+      "name": "Shuo Yan",
+      "homepage": "https://openreview.net/profile?id=~Shuo_Yan4",
+      "affiliation": {
+        "name": "The Hong Kong University of Science and Technology (Guangzhou)",
+        "domain": "hkust-gz.edu.cn"
+      },
+      "expertise_keywords": [
+        "AI for Protein Analysis",
+        "Graph Foundation Model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "affiliation_domain": "hkust-gz.edu.cn",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Protein Analysis, Graph Foundation Model",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Chenao_Li1",
+      "name": "Chenao Li",
+      "homepage": "https://openreview.net/profile?id=~Chenao_Li1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jundong_Li2",
+      "name": "Jundong Li",
+      "homepage": "https://openreview.net/profile?id=~Jundong_Li2",
+      "affiliation": {
+        "name": "University of Virginia",
+        "domain": "virginia.edu"
+      },
+      "expertise_keywords": [
+        "Algorithmic Fairness",
+        "Causal Inference",
+        "Feature Selection",
+        "Graph Machine Learning",
+        "Graph Mining",
+        "Large Language Model",
+        "Machine Learning Safety",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Virginia",
+      "affiliation_domain": "virginia.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Algorithmic Fairness, Causal Inference, Feature Selection, Graph Machine Learning, Graph Mining",
+      "depth": 1,
+      "direct_advisee_count": 11,
+      "total_descendants": 14
+    },
+    {
+      "id": "~Xingbo_Fu1",
+      "name": "Xingbo Fu",
+      "homepage": "https://openreview.net/profile?id=~Xingbo_Fu1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Federated Learning",
+        "Graph Learning",
+        "Graph Neural Networks",
+        "Prompt optimization"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Federated Learning, Graph Learning, Graph Neural Networks, Prompt optimization",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yaochen_Zhu1",
+      "name": "Yaochen Zhu",
+      "homepage": "https://openreview.net/profile?id=~Yaochen_Zhu1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Causal Inference",
+        "Graph Neural Network",
+        "Large Language Models",
+        "Recommender Systems"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Causal Inference, Graph Neural Network, Large Language Models, Recommender Systems",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zaiyi_Zheng1",
+      "name": "Zaiyi Zheng",
+      "homepage": "https://openreview.net/profile?id=~Zaiyi_Zheng1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Jing_Ma2",
+      "name": "Jing Ma",
+      "homepage": "https://openreview.net/profile?id=~Jing_Ma2",
+      "affiliation": {
+        "name": "Case Western Reserve University",
+        "domain": "case.edu"
+      },
+      "expertise_keywords": [
+        "AI for Science",
+        "AI for health",
+        "Causal inference",
+        "Causal machine learning",
+        "Explanation",
+        "Fairness",
+        "Graph foundation model",
+        "Graph neural network",
+        "LLM",
+        "Large language model",
+        "Robustness",
+        "Trustworthy AI",
+        "foundation model",
+        "safety"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Case Western Reserve University",
+      "affiliation_domain": "case.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Science, AI for health, Causal inference, Causal machine learning, Explanation",
+      "depth": 2,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~Wendy_Zheng1",
+      "name": "Wendy Zheng",
+      "homepage": "https://openreview.net/profile?id=~Wendy_Zheng1",
+      "affiliation": {
+        "name": "University of Virginia, Charlottesville",
+        "domain": "virginia.edu"
+      },
+      "expertise_keywords": [
+        "Explainable AI",
+        "Graph Neural Networks",
+        "Natural Language Processing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Virginia, Charlottesville",
+      "affiliation_domain": "virginia.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Explainable AI, Graph Neural Networks, Natural Language Processing",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yushun_Dong1",
+      "name": "Yushun Dong",
+      "homepage": "https://openreview.net/profile?id=~Yushun_Dong1",
+      "affiliation": {
+        "name": "Florida State University",
+        "domain": "fsu.edu"
+      },
+      "expertise_keywords": [
+        "Graph Machine Learning",
+        "Large Language Models",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Florida State University",
+      "affiliation_domain": "fsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Graph Machine Learning, Large Language Models, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 2,
+      "total_descendants": 2
+    },
+    {
+      "id": "~Patrick_Soga1",
+      "name": "Patrick Soga",
+      "homepage": "https://openreview.net/profile?id=~Patrick_Soga1",
+      "affiliation": {
+        "name": "University of Virginia",
+        "domain": "virginia.edu"
+      },
+      "expertise_keywords": [
+        "AI for science",
+        "graph neural networks",
+        "protein design"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Virginia",
+      "affiliation_domain": "virginia.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI for science, graph neural networks, protein design",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Song_Wang6",
+      "name": "Song Wang",
+      "homepage": "https://openreview.net/profile?id=~Song_Wang6",
+      "affiliation": {
+        "name": "University of Central Florida",
+        "domain": "ucf.edu"
+      },
+      "expertise_keywords": [
+        "AI for Healthcare",
+        "Large Language Models"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Central Florida",
+      "affiliation_domain": "ucf.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Healthcare, Large Language Models",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yinhan_He1",
+      "name": "Yinhan He",
+      "homepage": "https://openreview.net/profile?id=~Yinhan_He1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Explainable AI",
+        "Large Language Models In-context Learning",
+        "graph machine learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Explainable AI, Large Language Models In-context Learning, graph machine learning",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zhenyu_Lei1",
+      "name": "Zhenyu Lei",
+      "homepage": "https://openreview.net/profile?id=~Zhenyu_Lei1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Binchi_Zhang1",
+      "name": "Binchi Zhang",
+      "homepage": "https://openreview.net/profile?id=~Binchi_Zhang1",
+      "affiliation": {
+        "name": "University of Virginia, Charlottesville",
+        "domain": "virginia.edu"
+      },
+      "expertise_keywords": [
+        "Algorithmic Fairness",
+        "Federated Learning",
+        "Graph Mining",
+        "Machine Unlearning",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "University of Virginia, Charlottesville",
+      "affiliation_domain": "virginia.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Algorithmic Fairness, Federated Learning, Graph Mining, Machine Unlearning, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yiran_Qiao2",
+      "name": "Yiran Qiao",
+      "homepage": "https://openreview.net/profile?id=~Yiran_Qiao2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Causal Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Causal Machine Learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Bolin_Shen1",
+      "name": "Bolin Shen",
+      "homepage": "https://openreview.net/profile?id=~Bolin_Shen1",
+      "affiliation": {
+        "name": "Florida State University",
+        "domain": "fsu.edu"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Graph Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Florida State University",
+      "affiliation_domain": "fsu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Graph Learning",
+      "depth": 3,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Kai_Shu1",
+      "name": "Kai Shu",
+      "homepage": "https://openreview.net/profile?id=~Kai_Shu1",
+      "affiliation": {
+        "name": "Emory University",
+        "domain": "emory.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Emory University",
+      "affiliation_domain": "emory.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 3,
+      "total_descendants": 3
+    },
+    {
+      "id": "~Haoran_Wang12",
+      "name": "Haoran Wang",
+      "homepage": "https://openreview.net/profile?id=~Haoran_Wang12",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Graph Representation Learning",
+        "Information Extraction",
+        "Natural Language Processing",
+        "Trustworthy AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Graph Representation Learning, Information Extraction, Natural Language Processing, Trustworthy AI",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xiongxiao_Xu1",
+      "name": "Xiongxiao Xu",
+      "homepage": "https://openreview.net/profile?id=~Xiongxiao_Xu1",
+      "affiliation": {
+        "name": "Illinois Institute of Technology",
+        "domain": "iit.edu"
+      },
+      "expertise_keywords": [
+        "Bandits",
+        "Mamba",
+        "Multimodal Large Language Models",
+        "Time Series"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Illinois Institute of Technology",
+      "affiliation_domain": "iit.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Bandits, Mamba, Multimodal Large Language Models, Time Series",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Miguel_Cozar1",
+      "name": "Miguel Cozar",
+      "homepage": "https://openreview.net/profile?id=~Miguel_Cozar1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "GDPR",
+        "Ip Geolocation",
+        "Mobile applications Privacy",
+        "Privacy Policy Analysis",
+        "Privacy engineering",
+        "Traceroute Geolocation",
+        "cloud technologies",
+        "deep learning",
+        "graph theory",
+        "machine learning",
+        "social network analysis",
+        "topic models"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "GDPR, Ip Geolocation, Mobile applications Privacy, Privacy Policy Analysis, Privacy engineering",
+      "depth": 2,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Lu_Cheng2",
+      "name": "Lu Cheng",
+      "homepage": "https://openreview.net/profile?id=~Lu_Cheng2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Causal Learning",
+        "Social Media Mining",
+        "Socially Responsible AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Causal Learning, Social Media Mining, Socially Responsible AI",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Kaize_Ding1",
+      "name": "Kaize Ding",
+      "homepage": "https://openreview.net/profile?id=~Kaize_Ding1",
+      "affiliation": {
+        "name": "Northwestern University",
+        "domain": "northwestern.edu"
+      },
+      "expertise_keywords": [
+        "Anomaly Detection",
+        "Data-Efficient Learning",
+        "Graph Neural Networks",
+        "Large Language Models",
+        "Reliable Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Northwestern University",
+      "affiliation_domain": "northwestern.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Anomaly Detection, Data-Efficient Learning, Graph Neural Networks, Large Language Models, Reliable Machine Learning",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Raha_Moraffah1",
+      "name": "Raha Moraffah",
+      "homepage": "https://openreview.net/profile?id=~Raha_Moraffah1",
+      "affiliation": {
+        "name": "Worcester Polytechnic Institute",
+        "domain": "wpi.edu"
+      },
+      "expertise_keywords": [
+        "Adversarial Learning",
+        "Causal Machine Learning",
+        "Causal inference",
+        "Computer vision",
+        "Deep learning",
+        "Machine Leaning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Worcester Polytechnic Institute",
+      "affiliation_domain": "wpi.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Adversarial Learning, Causal Machine Learning, Causal inference, Computer vision, Deep learning",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ujun_Jeong1",
+      "name": "Ujun Jeong",
+      "homepage": "https://openreview.net/profile?id=~Ujun_Jeong1",
+      "affiliation": {
+        "name": "Arizona State University",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [
+        "Data Mining",
+        "Graph Neural Network",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Data Mining, Graph Neural Network, Machine Learning, Natural Language Processing",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zhen_Tan2",
+      "name": "Zhen Tan",
+      "homepage": "https://openreview.net/profile?id=~Zhen_Tan2",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Large Language Models",
+        "Multi-Agent Systems",
+        "Multi-modal Large Language Models",
+        "Safety of LLMs"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Large Language Models, Multi-Agent Systems, Multi-modal Large Language Models, Safety of LLMs",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Nayoung_Kim3",
+      "name": "Nayoung Kim",
+      "homepage": "https://openreview.net/profile?id=~Nayoung_Kim3",
+      "affiliation": {
+        "name": "Korea Advanced Institute of Science & Technology",
+        "domain": "kaist.ac.kr"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Korea Advanced Institute of Science & Technology",
+      "affiliation_domain": "kaist.ac.kr",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Bohan_Jiang2",
+      "name": "Bohan Jiang",
+      "homepage": "https://openreview.net/profile?id=~Bohan_Jiang2",
+      "affiliation": {
+        "name": "Arizona State University",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [
+        "Computational Social Science",
+        "Data Mining",
+        "Social Computing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Computational Social Science, Data Mining, Social Computing",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Kritshekhar_Jha1",
+      "name": "Kritshekhar Jha",
+      "homepage": "https://openreview.net/profile?id=~Kritshekhar_Jha1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Alimohammad_Beigi1",
+      "name": "Alimohammad Beigi",
+      "homepage": "https://openreview.net/profile?id=~Alimohammad_Beigi1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Deep Learning",
+        "Large Language Models",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Social Media Mining"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning, Large Language Models, Machine Learning, Natural Language Processing, Social Media Mining",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shu_Wan1",
+      "name": "Shu Wan",
+      "homepage": "https://openreview.net/profile?id=~Shu_Wan1",
+      "affiliation": {
+        "name": "Arizona State University",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [
+        "Causal Inference",
+        "Causal Machine Learning",
+        "Interpretation"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Causal Inference, Causal Machine Learning, Interpretation",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Chengshuai_Zhao2",
+      "name": "Chengshuai Zhao",
+      "homepage": "https://openreview.net/profile?id=~Chengshuai_Zhao2",
+      "affiliation": {
+        "name": "Arizona State University",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [
+        "AI for Science",
+        "Data Mining",
+        "Graph Representation Learning",
+        "Large Language Model"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "AI for Science, Data Mining, Graph Representation Learning, Large Language Model",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Dawei_Li5",
+      "name": "Dawei Li",
+      "homepage": "https://openreview.net/profile?id=~Dawei_Li5",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [
+        "Data Synthesis",
+        "Knowledge Graph",
+        "Large Language Models",
+        "Reasoning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "Data Synthesis, Knowledge Graph, Large Language Models, Reasoning",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Abdullah_Alnaibari1",
+      "name": "Abdullah Alnaibari",
+      "homepage": "https://openreview.net/profile?id=~Abdullah_Alnaibari1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Pingchuan_Ma1",
+      "name": "Pingchuan Ma",
+      "homepage": "https://openreview.net/profile?id=~Pingchuan_Ma1",
+      "affiliation": {
+        "name": "Arizona State University",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [
+        "Design Automation",
+        "Machine Learning",
+        "Photonic Computing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "Design Automation, Machine Learning, Photonic Computing",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Huiji_Gao1",
+      "name": "Huiji Gao",
+      "homepage": "https://openreview.net/profile?id=~Huiji_Gao1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Liang_Wu3",
+      "name": "Liang Wu",
+      "homepage": "https://openreview.net/profile?id=~Liang_Wu3",
+      "affiliation": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com"
+      },
+      "expertise_keywords": [
+        "Information Retrieval",
+        "Social Media Mining"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "LinkedIn",
+      "affiliation_domain": "linkedin.com",
+      "affiliation_country": null,
+      "research_area_summary": "Information Retrieval, Social Media Mining",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ghazaleh_Beigi2",
+      "name": "Ghazaleh Beigi",
+      "homepage": "https://openreview.net/profile?id=~Ghazaleh_Beigi2",
+      "affiliation": {
+        "name": "Google",
+        "domain": "google.com"
+      },
+      "expertise_keywords": [
+        "Social network analysis",
+        "computational social science",
+        "fairness",
+        "privacy"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Google",
+      "affiliation_domain": "google.com",
+      "affiliation_country": null,
+      "research_area_summary": "Social network analysis, computational social science, fairness, privacy",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ruocheng_Guo1",
+      "name": "Ruocheng Guo",
+      "homepage": "https://openreview.net/profile?id=~Ruocheng_Guo1",
+      "affiliation": {
+        "name": "Intuit AI",
+        "domain": "intuit.com"
+      },
+      "expertise_keywords": [
+        "Causal Inference",
+        "LLM agents",
+        "Reinforcement Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Intuit AI",
+      "affiliation_domain": "intuit.com",
+      "affiliation_country": null,
+      "research_area_summary": "Causal Inference, LLM agents, Reinforcement Learning",
+      "depth": 1,
+      "direct_advisee_count": 1,
+      "total_descendants": 1
+    },
+    {
+      "id": "~David_Mosallanezhad1",
+      "name": "David Mosallanezhad",
+      "homepage": "https://openreview.net/profile?id=~David_Mosallanezhad1",
+      "affiliation": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com"
+      },
+      "expertise_keywords": [
+        "Deep Learning",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "NVIDIA",
+      "affiliation_domain": "nvidia.com",
+      "affiliation_country": null,
+      "research_area_summary": "Deep Learning, Machine Learning, Natural Language Processing",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Mansooreh_Karami1",
+      "name": "Mansooreh Karami",
+      "homepage": "https://openreview.net/profile?id=~Mansooreh_Karami1",
+      "affiliation": {
+        "name": "Microsoft",
+        "domain": "microsoft.com"
+      },
+      "expertise_keywords": [
+        "Computational Social Science",
+        "Deep Learning",
+        "Large Language Models",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Social Media Mining"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Microsoft",
+      "affiliation_domain": "microsoft.com",
+      "affiliation_country": null,
+      "research_area_summary": "Computational Social Science, Deep Learning, Large Language Models, Machine Learning, Natural Language Processing",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Garima_Agrawal1",
+      "name": "Garima Agrawal",
+      "homepage": "https://openreview.net/profile?id=~Garima_Agrawal1",
+      "affiliation": {
+        "name": "Minerva CQ",
+        "domain": "minnervacq.com"
+      },
+      "expertise_keywords": [
+        "Knowledge Graphs",
+        "LLMs",
+        "NLP",
+        "RAG"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Minerva CQ",
+      "affiliation_domain": "minnervacq.com",
+      "affiliation_country": null,
+      "research_area_summary": "Knowledge Graphs, LLMs, NLP, RAG",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Amrita_Bhattacharjee1",
+      "name": "Amrita Bhattacharjee",
+      "homepage": "https://openreview.net/profile?id=~Amrita_Bhattacharjee1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Data mining",
+        "Large language models",
+        "Natural language understanding"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Data mining, Large language models, Natural language understanding",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Anique_R_Tahir1",
+      "name": "Anique R Tahir",
+      "homepage": "https://openreview.net/profile?id=~Anique_R_Tahir1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "Distribution Shift",
+        "Fairness",
+        "Machine Learning"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "Distribution Shift, Fairness, Machine Learning",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Tharindu_Sandaruwan_Kumarage1",
+      "name": "Tharindu Sandaruwan Kumarage",
+      "homepage": "https://openreview.net/profile?id=~Tharindu_Sandaruwan_Kumarage1",
+      "affiliation": {
+        "name": "Amazon",
+        "domain": "amazon.com"
+      },
+      "expertise_keywords": [
+        "AI Text Forensics",
+        "Deep Learning",
+        "Machine Learning",
+        "Mobility on demand systems",
+        "NLP for Mental Health",
+        "Natural Language Processing",
+        "Responsible AI"
+      ],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Amazon",
+      "affiliation_domain": "amazon.com",
+      "affiliation_country": null,
+      "research_area_summary": "AI Text Forensics, Deep Learning, Machine Learning, Mobility on demand systems, NLP for Mental Health",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Paras_Sheth1",
+      "name": "Paras Sheth",
+      "homepage": "https://openreview.net/profile?id=~Paras_Sheth1",
+      "affiliation": {
+        "name": "Unknown",
+        "domain": ""
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Unknown",
+      "affiliation_domain": "",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    }
+  ],
+  "links": [
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Nitin_Agarwal1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Tyler_Derr1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Wei_Jin4"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Harry_Shomer1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jingzhe_Liu1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Juanhui_Li1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Pengfei_He2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Shen_Dong4"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jie_Ren6"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Wenqi_Fan1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yaxin_Li3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jay_Revolinsky1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Zhikai_Chen3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hang_Li10"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hongzhi_Wen1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Quang_Truong1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Xiaorui_Liu1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yiqi_Wang6"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Shenglai_Zeng2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Han_Xu1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hamid_Karimi1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yuping_Lin3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Xiangyu_Zhao1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Zhiwei_Wang2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yingqian_Cui1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yao_Ma3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hua_Liu2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jiayuan_Ding1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Bingheng_Li1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Wenzhuo_Tang1"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Yu_Wang41"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Yuying_Zhao1"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Xueqi_Cheng2"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Bo_Ni1"
+    },
+    {
+      "from": "~Wei_Jin4",
+      "to": "~Shengbo_Gong1"
+    },
+    {
+      "from": "~Wei_Jin4",
+      "to": "~Juntong_Ni1"
+    },
+    {
+      "from": "~Wei_Jin4",
+      "to": "~Zewen_Liu2"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Jiatong_LI4"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Liang-bo_Ning1"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Haohao_Qu1"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Jiani_Huang2"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Yunqing_LIU1"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Shijie_Wang8"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Chengyi_LIU1"
+    },
+    {
+      "from": "~Xiaorui_Liu1",
+      "to": "~Weizhi_Gao1"
+    },
+    {
+      "from": "~Xiaorui_Liu1",
+      "to": "~Rui_Xue1"
+    },
+    {
+      "from": "~Xiaorui_Liu1",
+      "to": "~Zhichao_Hou1"
+    },
+    {
+      "from": "~Yiqi_Wang6",
+      "to": "~Jiaxin_Zhang10"
+    },
+    {
+      "from": "~Hamid_Karimi1",
+      "to": "~Soheila_Farokhi1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Ziru_Liu1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Pengyue_Jia1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Langming_Liu1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Xiao_Han11"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Jingtong_Gao1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Maoin_Wang1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Yingyi_Zhang4"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Zijian_Zhang5"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Xiaopeng_Li11"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Qidong_Liu2"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~wenlin_zhang4"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Bowen_Yu5"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Yejing_Wang1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~ZIMO_ZHAO1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Derong_Xu1"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Yuanzhe_Liu1"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Qian_Ma1"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Liangliang_Zhang3"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Hongliang_Chi1"
+    },
+    {
+      "from": "~Zijian_Zhang5",
+      "to": "~Mingyuan_Xia2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Jiliang_Tang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Qingquan_Song2"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Zhimeng_Jiang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Fan_Yang27"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Jiayi_Yuan1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Leisheng_Yu1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Diego_Martinez1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Mengnan_Du1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Chia-Yuan_Chang3"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Kaixiong_Zhou1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Qiaoyu_Tan2"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Zirui_Liu1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Guanchu_Wang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Daochen_Zha1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Qizhang_Feng1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Xiaotian_Han1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Xiao_Huang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Keyu_Duan1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Yu-Neng_Chuang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Feng_Luo4"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Jiamu_Zhang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Andrew_Wen2"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Songyuan_Sui1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Ninghao_Liu1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Yang_Sui1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Shaochen_Zhong1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Yicheng_Wang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Kwei-Herng_Lai1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Sirui_Ding1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Ruixiang_Tang1"
+    },
+    {
+      "from": "~Mengnan_Du1",
+      "to": "~Haiyan_Zhao3"
+    },
+    {
+      "from": "~Kaixiong_Zhou1",
+      "to": "~Yang_Ouyang1"
+    },
+    {
+      "from": "~Kaixiong_Zhou1",
+      "to": "~Hengrui_Gu1"
+    },
+    {
+      "from": "~Qiaoyu_Tan2",
+      "to": "~Dongzhe_Fan2"
+    },
+    {
+      "from": "~Zirui_Liu1",
+      "to": "~Wenya_Xie1"
+    },
+    {
+      "from": "~Zirui_Liu1",
+      "to": "~Xinheng_Ding1"
+    },
+    {
+      "from": "~Xiaotian_Han1",
+      "to": "~Van_Yang1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Zijin_Hong1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Su_Dong1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~CHEN_SHENGYUAN1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Xin_Zhang17"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Shuang_Zhou1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Qinggang_Zhang2"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Jiahe_Du1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Junnan_Dong1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Chang_Yang3"
+    },
+    {
+      "from": "~Ninghao_Liu1",
+      "to": "~Xuansheng_Wu1"
+    },
+    {
+      "from": "~Ninghao_Liu1",
+      "to": "~Tianze_Yang2"
+    },
+    {
+      "from": "~Ninghao_Liu1",
+      "to": "~Yucheng_Shi2"
+    },
+    {
+      "from": "~Ruixiang_Tang1",
+      "to": "~Shizeru1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Xia_Hu2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Reza_Zafarani1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Fred_Morstatter1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Xianfeng_Tang1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Zongyu_Wu1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Jiahao_Zhang1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Tianxiang_Zhao1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Minhua_Lin1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Enyan_Dai1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Xianren_Zhang1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Zhiwei_Zhang10"
+    },
+    {
+      "from": "~Enyan_Dai1",
+      "to": "~Shuo_Yan4"
+    },
+    {
+      "from": "~Enyan_Dai1",
+      "to": "~Chenao_Li1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Suhang_Wang1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Xingbo_Fu1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Yaochen_Zhu1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Zaiyi_Zheng1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Jing_Ma2"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Wendy_Zheng1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Yushun_Dong1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Patrick_Soga1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Song_Wang6"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Yinhan_He1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Zhenyu_Lei1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Binchi_Zhang1"
+    },
+    {
+      "from": "~Jing_Ma2",
+      "to": "~Yiran_Qiao2"
+    },
+    {
+      "from": "~Yushun_Dong1",
+      "to": "~Bolin_Shen1"
+    },
+    {
+      "from": "~Yushun_Dong1",
+      "to": "~Xueqi_Cheng2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Jundong_Li2"
+    },
+    {
+      "from": "~Kai_Shu1",
+      "to": "~Haoran_Wang12"
+    },
+    {
+      "from": "~Kai_Shu1",
+      "to": "~Xiongxiao_Xu1"
+    },
+    {
+      "from": "~Kai_Shu1",
+      "to": "~Miguel_Cozar1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Kai_Shu1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Lu_Cheng2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Kaize_Ding1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Raha_Moraffah1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ujun_Jeong1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Zhen_Tan2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Nayoung_Kim3"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Bohan_Jiang2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Kritshekhar_Jha1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Alimohammad_Beigi1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Shu_Wan1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Chengshuai_Zhao2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Dawei_Li5"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Abdullah_Alnaibari1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Pingchuan_Ma1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Huiji_Gao1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Liang_Wu3"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ghazaleh_Beigi2"
+    },
+    {
+      "from": "~Ruocheng_Guo1",
+      "to": "~Maoin_Wang1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ruocheng_Guo1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~David_Mosallanezhad1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Mansooreh_Karami1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Garima_Agrawal1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Amrita_Bhattacharjee1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Anique_R_Tahir1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Tharindu_Sandaruwan_Kumarage1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Paras_Sheth1"
+    }
+  ]
+}
