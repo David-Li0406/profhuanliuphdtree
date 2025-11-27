@@ -4743,5 +4743,20 @@
       "from": "~Huan_Liu1",
       "to": "~Paras_Sheth1"
     }
-  ]
+  ],
+  "summary": {
+    "total_nodes": 177,
+    "total_edges": 178,
+    "max_depth": 4,
+    "depth_counts": {
+      "0": 1,
+      "1": 33,
+      "2": 81,
+      "3": 61,
+      "4": 1
+    },
+    "direct_advisees": 33,
+    "generated_from": "OpenReview"
+  },
+  "generated_at": "2025-11-27T15:48:08.499709"
 }

@@ -336,7 +336,7 @@ const scheduleInitialFocus = () => {
 
 const init = async () => {
   try {
-    const response = await fetch("manning_tree_latest.json");
+    const response = await fetch("huan_liu_merged.json");
     state.data = await response.json();
   } catch (error) {
     console.error("Failed to load data", error);
