@@ -4756,7 +4756,803 @@
       "4": 1
     },
     "direct_advisees": 33,
+    "institutions": [
+      {
+        "name": "Unknown",
+        "count": 60
+      },
+      {
+        "name": "Michigan State University",
+        "count": 9
+      },
+      {
+        "name": "Amazon",
+        "count": 8
+      },
+      {
+        "name": "Rice University",
+        "count": 8
+      },
+      {
+        "name": "Arizona State University",
+        "count": 6
+      },
+      {
+        "name": "The Hong Kong Polytechnic University",
+        "count": 6
+      },
+      {
+        "name": "City University of Hong Kong",
+        "count": 6
+      },
+      {
+        "name": "Hong Kong Polytechnic University",
+        "count": 5
+      },
+      {
+        "name": "North Carolina State University",
+        "count": 4
+      },
+      {
+        "name": "Rensselaer Polytechnic Institute",
+        "count": 4
+      },
+      {
+        "name": "Emory University",
+        "count": 3
+      },
+      {
+        "name": "LinkedIn",
+        "count": 3
+      },
+      {
+        "name": "Florida State University",
+        "count": 3
+      },
+      {
+        "name": "University of Minnesota - Twin Cities",
+        "count": 3
+      },
+      {
+        "name": "Pennsylvania State University",
+        "count": 3
+      },
+      {
+        "name": "University of Southern California",
+        "count": 2
+      },
+      {
+        "name": "Google",
+        "count": 2
+      },
+      {
+        "name": "New Jersey Institute of Technology",
+        "count": 2
+      },
+      {
+        "name": "Case Western Reserve University",
+        "count": 2
+      },
+      {
+        "name": "Microsoft",
+        "count": 2
+      }
+    ],
     "generated_from": "OpenReview"
   },
-  "generated_at": "2025-11-27T15:48:08.499709"
+  "generated_at": "2025-11-27T16:05:40.003883",
+  "edges": [
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Nitin_Agarwal1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Tyler_Derr1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Wei_Jin4"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Harry_Shomer1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jingzhe_Liu1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Juanhui_Li1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Pengfei_He2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Shen_Dong4"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jie_Ren6"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Wenqi_Fan1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yaxin_Li3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jay_Revolinsky1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Zhikai_Chen3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hang_Li10"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hongzhi_Wen1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Quang_Truong1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Xiaorui_Liu1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yiqi_Wang6"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Shenglai_Zeng2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Han_Xu1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hamid_Karimi1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yuping_Lin3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Xiangyu_Zhao1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Zhiwei_Wang2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yingqian_Cui1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Yao_Ma3"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Hua_Liu2"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Jiayuan_Ding1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Bingheng_Li1"
+    },
+    {
+      "from": "~Jiliang_Tang1",
+      "to": "~Wenzhuo_Tang1"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Yu_Wang41"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Yuying_Zhao1"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Xueqi_Cheng2"
+    },
+    {
+      "from": "~Tyler_Derr1",
+      "to": "~Bo_Ni1"
+    },
+    {
+      "from": "~Wei_Jin4",
+      "to": "~Shengbo_Gong1"
+    },
+    {
+      "from": "~Wei_Jin4",
+      "to": "~Juntong_Ni1"
+    },
+    {
+      "from": "~Wei_Jin4",
+      "to": "~Zewen_Liu2"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Jiatong_LI4"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Liang-bo_Ning1"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Haohao_Qu1"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Jiani_Huang2"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Yunqing_LIU1"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Shijie_Wang8"
+    },
+    {
+      "from": "~Wenqi_Fan1",
+      "to": "~Chengyi_LIU1"
+    },
+    {
+      "from": "~Xiaorui_Liu1",
+      "to": "~Weizhi_Gao1"
+    },
+    {
+      "from": "~Xiaorui_Liu1",
+      "to": "~Rui_Xue1"
+    },
+    {
+      "from": "~Xiaorui_Liu1",
+      "to": "~Zhichao_Hou1"
+    },
+    {
+      "from": "~Yiqi_Wang6",
+      "to": "~Jiaxin_Zhang10"
+    },
+    {
+      "from": "~Hamid_Karimi1",
+      "to": "~Soheila_Farokhi1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Ziru_Liu1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Pengyue_Jia1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Langming_Liu1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Xiao_Han11"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Jingtong_Gao1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Maoin_Wang1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Yingyi_Zhang4"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Zijian_Zhang5"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Xiaopeng_Li11"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Qidong_Liu2"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~wenlin_zhang4"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Bowen_Yu5"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Yejing_Wang1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~ZIMO_ZHAO1"
+    },
+    {
+      "from": "~Xiangyu_Zhao1",
+      "to": "~Derong_Xu1"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Yuanzhe_Liu1"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Qian_Ma1"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Liangliang_Zhang3"
+    },
+    {
+      "from": "~Yao_Ma3",
+      "to": "~Hongliang_Chi1"
+    },
+    {
+      "from": "~Zijian_Zhang5",
+      "to": "~Mingyuan_Xia2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Jiliang_Tang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Qingquan_Song2"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Zhimeng_Jiang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Fan_Yang27"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Jiayi_Yuan1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Leisheng_Yu1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Diego_Martinez1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Mengnan_Du1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Chia-Yuan_Chang3"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Kaixiong_Zhou1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Qiaoyu_Tan2"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Zirui_Liu1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Guanchu_Wang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Daochen_Zha1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Qizhang_Feng1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Xiaotian_Han1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Xiao_Huang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Keyu_Duan1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Yu-Neng_Chuang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Feng_Luo4"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Jiamu_Zhang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Andrew_Wen2"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Songyuan_Sui1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Ninghao_Liu1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Yang_Sui1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Shaochen_Zhong1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Yicheng_Wang1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Kwei-Herng_Lai1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Sirui_Ding1"
+    },
+    {
+      "from": "~Xia_Hu2",
+      "to": "~Ruixiang_Tang1"
+    },
+    {
+      "from": "~Mengnan_Du1",
+      "to": "~Haiyan_Zhao3"
+    },
+    {
+      "from": "~Kaixiong_Zhou1",
+      "to": "~Yang_Ouyang1"
+    },
+    {
+      "from": "~Kaixiong_Zhou1",
+      "to": "~Hengrui_Gu1"
+    },
+    {
+      "from": "~Qiaoyu_Tan2",
+      "to": "~Dongzhe_Fan2"
+    },
+    {
+      "from": "~Zirui_Liu1",
+      "to": "~Wenya_Xie1"
+    },
+    {
+      "from": "~Zirui_Liu1",
+      "to": "~Xinheng_Ding1"
+    },
+    {
+      "from": "~Xiaotian_Han1",
+      "to": "~Van_Yang1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Zijin_Hong1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Su_Dong1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~CHEN_SHENGYUAN1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Xin_Zhang17"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Shuang_Zhou1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Qinggang_Zhang2"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Jiahe_Du1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Junnan_Dong1"
+    },
+    {
+      "from": "~Xiao_Huang1",
+      "to": "~Chang_Yang3"
+    },
+    {
+      "from": "~Ninghao_Liu1",
+      "to": "~Xuansheng_Wu1"
+    },
+    {
+      "from": "~Ninghao_Liu1",
+      "to": "~Tianze_Yang2"
+    },
+    {
+      "from": "~Ninghao_Liu1",
+      "to": "~Yucheng_Shi2"
+    },
+    {
+      "from": "~Ruixiang_Tang1",
+      "to": "~Shizeru1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Xia_Hu2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Reza_Zafarani1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Fred_Morstatter1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Xianfeng_Tang1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Zongyu_Wu1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Jiahao_Zhang1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Tianxiang_Zhao1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Minhua_Lin1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Enyan_Dai1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Xianren_Zhang1"
+    },
+    {
+      "from": "~Suhang_Wang1",
+      "to": "~Zhiwei_Zhang10"
+    },
+    {
+      "from": "~Enyan_Dai1",
+      "to": "~Shuo_Yan4"
+    },
+    {
+      "from": "~Enyan_Dai1",
+      "to": "~Chenao_Li1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Suhang_Wang1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Xingbo_Fu1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Yaochen_Zhu1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Zaiyi_Zheng1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Jing_Ma2"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Wendy_Zheng1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Yushun_Dong1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Patrick_Soga1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Song_Wang6"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Yinhan_He1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Zhenyu_Lei1"
+    },
+    {
+      "from": "~Jundong_Li2",
+      "to": "~Binchi_Zhang1"
+    },
+    {
+      "from": "~Jing_Ma2",
+      "to": "~Yiran_Qiao2"
+    },
+    {
+      "from": "~Yushun_Dong1",
+      "to": "~Bolin_Shen1"
+    },
+    {
+      "from": "~Yushun_Dong1",
+      "to": "~Xueqi_Cheng2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Jundong_Li2"
+    },
+    {
+      "from": "~Kai_Shu1",
+      "to": "~Haoran_Wang12"
+    },
+    {
+      "from": "~Kai_Shu1",
+      "to": "~Xiongxiao_Xu1"
+    },
+    {
+      "from": "~Kai_Shu1",
+      "to": "~Miguel_Cozar1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Kai_Shu1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Lu_Cheng2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Kaize_Ding1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Raha_Moraffah1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ujun_Jeong1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Zhen_Tan2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Nayoung_Kim3"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Bohan_Jiang2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Kritshekhar_Jha1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Alimohammad_Beigi1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Shu_Wan1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Chengshuai_Zhao2"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Dawei_Li5"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Abdullah_Alnaibari1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Pingchuan_Ma1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Huiji_Gao1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Liang_Wu3"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ghazaleh_Beigi2"
+    },
+    {
+      "from": "~Ruocheng_Guo1",
+      "to": "~Maoin_Wang1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ruocheng_Guo1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~David_Mosallanezhad1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Mansooreh_Karami1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Garima_Agrawal1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Amrita_Bhattacharjee1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Anique_R_Tahir1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Tharindu_Sandaruwan_Kumarage1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Paras_Sheth1"
+    }
+  ]
 }
