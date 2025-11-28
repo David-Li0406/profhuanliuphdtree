@@ -21,8 +21,8 @@
       "affiliation_country": null,
       "research_area_summary": "Data Mining, Machine Learning, Social Computing",
       "depth": 0,
-      "direct_advisee_count": 33,
-      "total_descendants": 178
+      "direct_advisee_count": 64,
+      "total_descendants": 209
     },
     {
       "id": "~Nitin_Agarwal1",
@@ -4028,6 +4028,595 @@
       "depth": 1,
       "direct_advisee_count": 0,
       "total_descendants": 0
+    },
+    {
+      "id": "~Brian_Vincent",
+      "name": "Brian Vincent",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Weidong_Zhang",
+      "name": "Weidong Zhang",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ahmet_Kapkic",
+      "name": "Ahmet Kapkic",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Saketh_V_ishnubhatla",
+      "name": "Saketh V ishnubhatla",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Pinchuan_Ma",
+      "name": "Pinchuan Ma",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~William_Dahl",
+      "name": "William Dahl",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Stella_Wenxing_Liu",
+      "name": "Stella Wenxing Liu",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Lei_Yu",
+      "name": "Lei Yu",
+      "homepage": "http://www.cs.binghamton.edu/~lyu/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Sai_Moturu",
+      "name": "Sai Moturu",
+      "homepage": "http://sai.moturu.googlepages.com/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zheng_Alan_Zhao",
+      "name": "Zheng Alan Zhao",
+      "homepage": "https://sites.google.com/site/alanzhao/Home",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Lei_Tang",
+      "name": "Lei Tang",
+      "homepage": "http://leitang.net/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Geoffrey_Barbier",
+      "name": "Geoffrey Barbier",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Xufei_Wang",
+      "name": "Xufei Wang",
+      "homepage": "http://dmml.asu.edu/users/xufei/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Salem_Alelyani",
+      "name": "Salem Alelyani",
+      "homepage": "http://www.public.asu.edu/~salelyan/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Ali_Abbasi",
+      "name": "Ali Abbasi",
+      "homepage": "http://www.public.asu.edu/~mabbasi2/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Pritam_Gundecha",
+      "name": "Pritam Gundecha",
+      "homepage": "http://www.public.asu.edu/~pgundech/",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Shamanth_Kumar",
+      "name": "Shamanth Kumar",
+      "homepage": "http://www.public.asu.edu/~skumar34",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Magdiel_Galan",
+      "name": "Magdiel Galan",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Yunzhong_Liu",
+      "name": "Yunzhong Liu",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Robert_Rob_Trevino",
+      "name": "Robert (Rob) Trevino",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Somnath_Shahapurkar",
+      "name": "Somnath Shahapurkar",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Philippe_Christophe_Faucon",
+      "name": "Philippe Christophe Faucon",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Suhas_Ranganath",
+      "name": "Suhas Ranganath",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Isaac_Jones",
+      "name": "Isaac Jones",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Tahora_Hossein_Nazer",
+      "name": "Tahora Hossein Nazer",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Nur_Shazwani_Kamrudin",
+      "name": "Nur Shazwani Kamrudin",
+      "homepage": "https://shazwanipursue.wixsite.com/nurwebpage",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Gennaro_De_Luca",
+      "name": "Gennaro De Luca",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Walaa_Abdulaziz_M_Alnasser",
+      "name": "Walaa Abdulaziz M Alnasser",
+      "homepage": "https://scholar.google.com/citations?hl=en&user=Sq7agK8AAAAJ",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Bing_Hu",
+      "name": "Bing Hu",
+      "homepage": "",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Faisal_Alatawi",
+      "name": "Faisal Alatawi",
+      "homepage": "https://scholar.google.com/citations?user=Lqi_e8UAAAAJ&hl=en",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
+    },
+    {
+      "id": "~Zeyad_Alghamdi",
+      "name": "Zeyad Alghamdi",
+      "homepage": "https://scholar.google.com/citations?hl=en&user=HGjfmRUAAAAJ",
+      "affiliation": {
+        "name": "Arizona State University (PhD)",
+        "domain": "asu.edu"
+      },
+      "expertise_keywords": [],
+      "gscholar": "",
+      "dblp": "",
+      "affiliation_name": "Arizona State University (PhD)",
+      "affiliation_domain": "asu.edu",
+      "affiliation_country": null,
+      "research_area_summary": "",
+      "depth": 1,
+      "direct_advisee_count": 0,
+      "total_descendants": 0
     }
   ],
   "links": [
@@ -4742,24 +5331,152 @@
     {
       "from": "~Huan_Liu1",
       "to": "~Paras_Sheth1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Brian_Vincent"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Weidong_Zhang"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ahmet_Kapkic"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Saketh_V_ishnubhatla"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Pinchuan_Ma"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~William_Dahl"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Stella_Wenxing_Liu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Lei_Yu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Sai_Moturu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Zheng_Alan_Zhao"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Lei_Tang"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Geoffrey_Barbier"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Xufei_Wang"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Salem_Alelyani"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ali_Abbasi"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Pritam_Gundecha"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Shamanth_Kumar"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Magdiel_Galan"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Yunzhong_Liu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Robert_Rob_Trevino"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Somnath_Shahapurkar"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Philippe_Christophe_Faucon"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Suhas_Ranganath"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Isaac_Jones"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Tahora_Hossein_Nazer"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Nur_Shazwani_Kamrudin"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Gennaro_De_Luca"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Walaa_Abdulaziz_M_Alnasser"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Bing_Hu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Faisal_Alatawi"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Zeyad_Alghamdi"
     }
   ],
   "summary": {
-    "total_nodes": 177,
-    "total_edges": 178,
+    "total_nodes": 208,
+    "total_edges": 209,
     "max_depth": 4,
     "depth_counts": {
       "0": 1,
-      "1": 33,
+      "1": 64,
       "2": 81,
       "3": 61,
       "4": 1
     },
-    "direct_advisees": 33,
+    "direct_advisees": 64,
     "institutions": [
       {
         "name": "Unknown",
         "count": 60
+      },
+      {
+        "name": "Arizona State University (PhD)",
+        "count": 31
       },
       {
         "name": "Michigan State University",
@@ -4832,15 +5549,11 @@
       {
         "name": "Case Western Reserve University",
         "count": 2
-      },
-      {
-        "name": "Microsoft",
-        "count": 2
       }
     ],
     "generated_from": "OpenReview"
   },
-  "generated_at": "2025-11-27T16:05:40.003883",
+  "generated_at": "2025-11-27T17:02:34.583757",
   "edges": [
     {
       "from": "~Huan_Liu1",
@@ -5553,6 +6266,130 @@
     {
       "from": "~Huan_Liu1",
       "to": "~Paras_Sheth1"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Brian_Vincent"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Weidong_Zhang"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ahmet_Kapkic"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Saketh_V_ishnubhatla"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Pinchuan_Ma"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~William_Dahl"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Stella_Wenxing_Liu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Lei_Yu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Sai_Moturu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Zheng_Alan_Zhao"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Lei_Tang"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Geoffrey_Barbier"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Xufei_Wang"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Salem_Alelyani"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Ali_Abbasi"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Pritam_Gundecha"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Shamanth_Kumar"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Magdiel_Galan"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Yunzhong_Liu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Robert_Rob_Trevino"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Somnath_Shahapurkar"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Philippe_Christophe_Faucon"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Suhas_Ranganath"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Isaac_Jones"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Tahora_Hossein_Nazer"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Nur_Shazwani_Kamrudin"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Gennaro_De_Luca"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Walaa_Abdulaziz_M_Alnasser"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Bing_Hu"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Faisal_Alatawi"
+    },
+    {
+      "from": "~Huan_Liu1",
+      "to": "~Zeyad_Alghamdi"
     }
   ]
 }
